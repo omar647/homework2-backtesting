@@ -1,0 +1,5 @@
+,Total Return,CAGR,Volatility,Sharpe,Sortino,Max Drawdown,Win Rate,Trades
+Buy & Hold,118.44%,16.94%,27.56%,0.71,1.02,-33.32%,100.00%,1
+Trend Following,10.83%,2.08%,14.08%,0.22,0.18,-25.01%,45.95%,37
+Mean Reversion,64.70%,10.51%,18.85%,0.62,0.58,-22.79%,100.00%,5
+Custom Strategy,27.38%,4.97%,15.26%,0.39,0.39,-21.49%,33.33%,24
